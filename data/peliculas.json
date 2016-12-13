@@ -1,0 +1,23 @@
+{
+    "results": [{
+            "id": "1",
+            "titulo": "Bella Durmiente"
+        },
+        {
+            "id": "2",
+            "titulo": "Blanca Nieves"
+        },
+        {
+            "id": "3",
+            "titulo": "Cenicienta"
+        },
+        {
+            "id": "4",
+            "titulo": "Car's"
+        },
+        {
+            "id": "2",
+            "titulo": "El remolino del Diablo"
+        }
+    ]
+}
